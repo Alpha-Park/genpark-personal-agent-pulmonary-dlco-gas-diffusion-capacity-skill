@@ -1,0 +1,16 @@
+{
+  "name": "genpark-personal-agent-pulmonary-dlco-gas-diffusion-capacity-skill",
+  "version": "1.0.0",
+  "title": "Pulmonary DLCO Carbon Monoxide Diffusion Capacity Skill",
+  "category": "Personal Agent (Bio / Respiratory Gas Exchange)",
+  "description": "Calculates hemoglobin-adjusted diffusing capacity of the lungs for carbon monoxide (DLCO), alveolar volume (VA), and diffusion coefficient (KCO), identifying alveolar-capillary membrane thickening.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "evaluate_pulmonary_dlco_diffusion"
+  ],
+  "dependencies": []
+}
